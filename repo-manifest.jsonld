@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/create-typescript-server/commit/3115f395cebe7c3ca631ba4becd4cbdf46cd6291",
       "git:hexsha": "3115f395cebe7c3ca631ba4becd4cbdf46cd6291",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.3.1"
     },
     {
