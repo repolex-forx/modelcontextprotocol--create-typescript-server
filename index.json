@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "create-typescript-server",
+  "versions": [
+    {
+      "commit": "3115f395cebe7c3ca631ba4becd4cbdf46cd6291",
+      "tag": "main",
+      "parsed_at": "2026-10-09T10:10:36.926571+00:00"
+    }
+  ]
+}
